@@ -5,9 +5,9 @@ Automatically generate a RemNote flashcard from highlighted text in any app usin
 
 1. **Dependencies**: Make sure you have Python 3.x and the OpenAI Python client installed. Install the latter with pip: `pip install openai`.
 
-2. **API Key**: Sign up at OpenAI and get your API key. 
+2. **Clone**: Clone this repository to your local machine. 
 
-3. **Clone**: Clone this repository to your local machine. 
+3. **API Key**: Sign up at OpenAI and get your API key. Store this in `.env`.
 
 ## Usage
 
