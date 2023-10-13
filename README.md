@@ -1,6 +1,8 @@
 # remnote_flashcard_gpt
 Automatically generate a RemNote flashcard from highlighted text in any app using OpenAI's GPT-3.
 
+![Usage](demo.gif)
+
 ## Setup
 
 1. **Dependencies**: Make sure you have Python 3.x and the OpenAI Python client installed. Install the latter with pip: `pip install openai`.
