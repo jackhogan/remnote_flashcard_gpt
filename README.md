@@ -7,7 +7,7 @@ Automatically generate a RemNote flashcard from highlighted text in any app usin
 
 2. **API Key**: Sign up at OpenAI and get your API key. 
 
-3. **Clone**: Clone this repository to your local machine using `https://github.com/{YOUR-GITHUB-USERNAME}/repo.git`.
+3. **Clone**: Clone this repository to your local machine. 
 
 ## Usage
 
